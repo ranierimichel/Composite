@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\CompositeSpecification\bin\Debug\CompositeSpecification.exe.config
+C:\Users\Ranieri\Desktop\CompositeSpecification\bin\Debug\CompositeSpecification.exe
+C:\Users\Ranieri\Desktop\CompositeSpecification\bin\Debug\CompositeSpecification.pdb
+C:\Users\Ranieri\Desktop\CompositeSpecification\obj\Debug\CompositeSpecification.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\CompositeSpecification\obj\Debug\CompositeSpecification.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\CompositeSpecification\obj\Debug\CompositeSpecification.exe
+C:\Users\Ranieri\Desktop\CompositeSpecification\obj\Debug\CompositeSpecification.pdb

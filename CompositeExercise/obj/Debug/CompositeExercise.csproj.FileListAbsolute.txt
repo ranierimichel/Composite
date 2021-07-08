@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\CompositeExercise\bin\Debug\CompositeExercise.exe.config
+C:\Users\Ranieri\Desktop\CompositeExercise\bin\Debug\CompositeExercise.exe
+C:\Users\Ranieri\Desktop\CompositeExercise\bin\Debug\CompositeExercise.pdb
+C:\Users\Ranieri\Desktop\CompositeExercise\obj\Debug\CompositeExercise.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\CompositeExercise\obj\Debug\CompositeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\CompositeExercise\obj\Debug\CompositeExercise.exe
+C:\Users\Ranieri\Desktop\CompositeExercise\obj\Debug\CompositeExercise.pdb

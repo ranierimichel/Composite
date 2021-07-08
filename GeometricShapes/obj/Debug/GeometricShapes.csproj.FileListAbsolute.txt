@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Ranieri\Desktop\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Ranieri\Desktop\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Ranieri\Desktop\GeometricShapes\obj\Debug\GeometricShapes.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Ranieri\Desktop\GeometricShapes\obj\Debug\GeometricShapes.pdb
